@@ -5556,7 +5556,7 @@
         "company_name": "Konrad Group",
         "id": "521fd544-fbe1-4d80-8042-9fda065e17cb",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1731699507,
         "date_posted": 1731699507,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6272341003",
@@ -16053,7 +16053,7 @@
         "company_name": "Motorola",
         "id": "6cc8c463-d29b-4b4b-b4bd-1daa162792c7",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1751971689,
         "date_posted": 1751971689,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Entry-Level-Software-Engineer_R55247",
@@ -16583,6 +16583,58 @@
             "Rochester, NY"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iridium Communications",
+        "id": "16835add-c9d7-462d-bf56-9e806489af23",
+        "title": "Engineer I - Software Developer",
+        "active": true,
+        "date_updated": 1752706987,
+        "date_posted": 1752706987,
+        "url": "https://careers-iridium.icims.com/jobs/4606/job",
+        "locations": [
+            "Reston, VA",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "ac8b67b8-97b8-4915-90f9-87cb00709c0a",
+        "title": "Entry Level Software Engineer - Automated Testing",
+        "active": true,
+        "date_updated": 1752710482,
+        "date_posted": 1752710482,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-Software-Engineer--Automated-Testing-_314546-1",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "PDI Technologies",
+        "id": "517ea1d4-f0b3-49a8-8779-1fe5d188f014",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752705747,
+        "date_posted": 1752705747,
+        "url": "https://jobs.lever.co/pditechnologies/e5ce2da7-b493-4557-996b-be3832c7fe0d/apply",
+        "locations": [
+            "Temple, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/c202599e-d952-4aab-a921-e4ecf64a1dea",
         "is_visible": true,
         "sponsorship": "Other"
     }
