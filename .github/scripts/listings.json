@@ -10153,7 +10153,7 @@
         "company_name": "Blue Origin",
         "id": "83f20d07-1cda-4239-9412-e6955ba2aa50",
         "title": "Software Development Engineer I \u2013 Early Career 2025 University Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1743193831,
         "date_posted": 1743193831,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
@@ -11035,7 +11035,7 @@
         "company_name": "North Atlantic Industries",
         "id": "8d6114f3-edc1-4d57-888b-80d78a34fd40",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1744699008,
         "date_posted": 1744699008,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3197298",
@@ -12268,7 +12268,7 @@
         "company_name": "Salesforce",
         "id": "74920028-4f5d-450e-88c3-4caccd6cc51e",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1746821189,
         "date_posted": 1746821189,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR295894-1",
@@ -12668,7 +12668,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": false,
+        "active": true,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -13708,7 +13708,7 @@
         "company_name": "Truist",
         "id": "e40eda45-74fb-49e3-bb44-1f0eeafc6957",
         "title": "Software Engineer I / Ncino Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1749090985,
         "date_posted": 1749090985,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I---nCino-Developer_R0102738",
@@ -15539,9 +15539,9 @@
         "category": "Software",
         "company_name": "Iridium Communications",
         "id": "47ab4e50-7048-47ed-b68c-f8b8ba8b6164",
-        "title": "Engineer I - Software Developer",
-        "active": true,
-        "date_updated": 1751467964,
+        "title": "Engineer I - Software Developer \ud83c\uddfa\ud83c\uddf8",
+        "active": false,
+        "date_updated": 1753448689,
         "date_posted": 1751410924,
         "url": "https://careers-iridium.icims.com/jobs/4605/job",
         "locations": [
@@ -15549,8 +15549,8 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
+        "is_visible": false,
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -15632,7 +15632,7 @@
         "id": "cadfed96-51aa-405b-adb7-d9c88b068683",
         "title": "Software Engineer I - Java Foundation",
         "active": true,
-        "date_updated": 1751499755,
+        "date_updated": 1753448456,
         "date_posted": 1751499755,
         "url": "https://www.uber.com/global/en/careers/list/138677/",
         "locations": [
@@ -15641,7 +15641,7 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16223,7 +16223,7 @@
         "company_name": "Expedia",
         "id": "921be1d3-f7c0-4490-90d3-89d0f6b90fe7",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752282350,
         "date_posted": 1752282350,
         "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-96645",
@@ -16241,14 +16241,14 @@
         "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
         "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
         "active": true,
-        "date_updated": 1752277777,
+        "date_updated": 1753448156,
         "date_posted": 1752277777,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
         "locations": [
             "Plano, TX"
         ],
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16825,7 +16825,7 @@
         "company_name": "Jerry",
         "id": "6425ba3a-ef45-4548-8563-d4735b6d3cd1",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753141551,
         "date_posted": 1753141551,
         "url": "https://jobs.ashbyhq.com/Jerry/2dd7d70d-7794-4662-b0a9-48900db8d26c/application",
@@ -16970,5 +16970,22 @@
         "date_posted": 1753368039,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Franklin St",
+        "id": "c3f9ea9a-bc61-4ef2-9206-158a41f33374",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1753410448,
+        "date_posted": 1753410448,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3439993",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-St",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
