@@ -1,69 +1,5 @@
 [
     {
-        "date_updated": 1723583608,
-        "url": "https://jobs.ashbyhq.com/codeium/558657be-5082-4e97-8509-d49f5c25bf5b",
-        "company_name": "Codeium",
-        "title": "AI Product Engineer (New Grad)",
-        "locations": [
-            "Mountain VIew, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "jwang1011",
-        "id": "d6364b2a-74b1-4a38-94a4-6580c2b2696a",
-        "date_posted": 1723583608,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1723583639,
-        "url": "https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12",
-        "company_name": "Ramp",
-        "title": "New Grad 2025: Software Engineer - Frontend",
-        "locations": [
-            "New York City, New York"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "rohanpurandare",
-        "id": "90246102-849b-49db-b60b-151a5d620c98",
-        "date_posted": 1723583639,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1723583661,
-        "url": "https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb",
-        "company_name": "Ramp",
-        "title": "New Grad 2025: Software Engineer - Backend",
-        "locations": [
-            "New York City, New York"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "rohanpurandare",
-        "id": "bbf5da12-dbb2-45da-bcb2-c50068d2aa17",
-        "date_posted": 1723583661,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1723583702,
-        "url": "https://jobs.ashbyhq.com/codeium/cb10c443-7e5b-44ac-8b21-0edd60b22095",
-        "company_name": "Codeium",
-        "title": "Software Engineer (New Grad)",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "jwang1011",
-        "id": "9f1fb861-8544-4e5d-a9f7-ba45aea53da3",
-        "date_posted": 1723583702,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1724287549,
         "url": "https://www.geckorobotics.com/careers?ashby_jid=34464bf6-1c55-4aed-8d08-ac43c7c965d1#open-positions",
         "company_name": "Gecko Robotics",
@@ -371,22 +307,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Whoop",
-        "id": "2f908612-47cf-4a3a-aa92-b6f5d22dc501",
-        "title": "Software Engineer I - Backend - Personalization & Progress",
-        "active": false,
-        "date_updated": 1723504465,
-        "date_posted": 1723504465,
-        "url": "https://jobs.lever.co/whoop/eda29f76-1da9-45bb-a822-f616011f3bb7/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Whoop",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Hudson River Trading",
         "id": "b1765552-e652-4f88-a20d-d926c26402ad",
         "title": "Software Engineer \u2013 2025 Grads - C++",
@@ -398,22 +318,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Radiant",
-        "id": "cbfa5543-1f6a-40a1-b323-9cbf8b20844a",
-        "title": "Software Engineer \u2013 New Graduates",
-        "active": false,
-        "date_updated": 1723505784,
-        "date_posted": 1723505784,
-        "url": "https://job-boards.greenhouse.io/radiant/jobs/4460385005",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Radiant",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -446,24 +350,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Flashpoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "85821890-c265-4a65-8187-1194af902478",
-        "title": "Deep Learning Compiler Engineer \u2013 New College Grad 2024 - Autonomous Vehicles",
-        "active": false,
-        "date_updated": 1723909861,
-        "date_posted": 1723909861,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Engineer--Autonomous-Vehicles---New-College-Grad-2024_JR1986018",
-        "locations": [
-            "Austin, TX",
-            "Redmond, WA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -514,22 +400,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Pattern Data",
-        "id": "34858b56-8a32-4f10-b5d5-e76e1fad2229",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1723662584,
-        "date_posted": 1723592408,
-        "url": "https://job-boards.greenhouse.io/patterndata/jobs/4478536007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pattern-Data",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -595,22 +465,6 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Databricks",
-        "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
-        "title": "Data Scientist \u2013 New Grad - 2025 Start",
-        "active": false,
-        "date_updated": 1725047809,
-        "date_posted": 1723591647,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -1122,7 +976,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "date_posted": 1725514537,
@@ -5804,7 +5658,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -5873,7 +5727,7 @@
         "company_name": "Amazon",
         "id": "c86c9add-6977-442d-8e79-cb62705f1231",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1733862163,
         "date_posted": 1733862163,
         "url": "https://amazon.jobs/en/jobs/2850044/software-development-engineer-i-2025",
@@ -5892,7 +5746,7 @@
         "company_name": "Amazon",
         "id": "be83d3ad-b672-4c8d-b07b-498249b63823",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1733862169,
         "date_posted": 1733862169,
         "url": "https://amazon.jobs/en/jobs/2849985/software-development-engineer-i-2025",
@@ -9491,7 +9345,7 @@
         "company_name": "Esri",
         "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
         "title": "C++ Software Development Engineer I - Arcgis Enterprise",
-        "active": false,
+        "active": true,
         "date_updated": 1742873875,
         "date_posted": 1742873875,
         "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
@@ -9997,7 +9851,7 @@
         "company_name": "Sev1Tech",
         "id": "064c38df-95e2-4461-a241-32dda71e01c3",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1743662360,
         "date_posted": 1743662360,
         "url": "https://careers-sev1tech.icims.com/jobs/8763/job",
@@ -10826,7 +10680,7 @@
         "company_name": "Sev1Tech",
         "id": "944e985f-b58f-4373-8d24-a453b692eb61",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1750205446,
         "date_posted": 1744912668,
         "url": "https://careers-sev1tech.icims.com/jobs/8793/job",
@@ -11541,7 +11395,7 @@
         "company_name": "The Boeing Company",
         "id": "109c269f-cd68-40a9-9177-c7f4aa0ba9f3",
         "title": "Entry Level Flight Simulation Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1746151076,
         "date_posted": 1746151076,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088",
@@ -11902,7 +11756,7 @@
         "company_name": "Ciena",
         "id": "7fb9cfc6-2b8c-4a41-9b3c-ea60476f4436",
         "title": "Electro-Optics Hardware Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1746838619,
         "date_posted": 1746838619,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electro-Optics-Hardware-Engineer-New-Grad_R027951",
@@ -12057,7 +11911,7 @@
         "company_name": "Amentum",
         "id": "ab8be857-c152-406b-aa20-db7b85c97468",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1747325720,
         "date_posted": 1747325720,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0139276",
@@ -13852,7 +13706,7 @@
         "company_name": "Affirm",
         "id": "148f33c0-78be-4f05-af96-c10e696ee96d",
         "title": "Software Engineer I - Backend - Identity Decisioning",
-        "active": true,
+        "active": false,
         "date_updated": 1749696764,
         "date_posted": 1749696764,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/6605722003",
@@ -14642,7 +14496,7 @@
         "company_name": "Cadence Design Systems",
         "id": "86ce04a9-7603-4349-9b12-07db7eff5c74",
         "title": "C++ Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1750913214,
         "date_posted": 1750913214,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50665-1",
@@ -14881,7 +14735,7 @@
         "company_name": "USAA",
         "id": "a4534f59-5baf-4b6e-a528-21c6f8b7964f",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751077498,
         "date_posted": 1751077498,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Data-Engineer-I_R0110546",
@@ -15672,11 +15526,11 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Citadel",
+        "company_name": "Citadel Securities",
         "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
         "title": "Quantitative Research Analyst \u2013 University Graduate",
         "active": true,
-        "date_updated": 1752196371,
+        "date_updated": 1755169794,
         "date_posted": 1752196371,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
         "locations": [
@@ -15746,16 +15600,16 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Citadel",
+        "company_name": "Citadel Securities",
         "id": "1e5ec141-389c-43d9-8e1b-1e99a59ae8cf",
         "title": "Quantitative Research Engineer \u2013 University Graduate",
         "active": true,
-        "date_updated": 1752196364,
+        "date_updated": 1755169871,
         "date_posted": 1752196364,
         "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
         "locations": [
             "Miami, FL",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Citadel",
         "is_visible": true,
@@ -16474,7 +16328,7 @@
         "company_name": "WebFX",
         "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1750781981,
         "date_posted": 1750781981,
         "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
@@ -16781,7 +16635,7 @@
         "company_name": "Broadcom Limited",
         "id": "323bd7d7-77ed-4cde-83a7-1a5badca5950",
         "title": "Junior R & D Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1753313866,
         "date_posted": 1753313866,
         "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-E/Junior-R---D-Software-Engineer_R023410",
@@ -17425,7 +17279,7 @@
         "company_name": "Terex",
         "id": "5c51f5ae-cc65-4ef8-b061-5d8d83699764",
         "title": "Software Engineer I - 3rd Eye",
-        "active": true,
+        "active": false,
         "date_updated": 1754068499,
         "date_posted": 1754068499,
         "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/Software-Engineer-I--3rd-Eye_REQ-9369",
@@ -17528,7 +17382,7 @@
         "company_name": "PJM",
         "id": "3d340e56-0a69-43ff-9367-8bdd7ddf6b05",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754055576,
         "date_posted": 1754055576,
         "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/Data-Engineer-I--II-_REQ-2025-4047-1",
@@ -17731,7 +17585,7 @@
         "company_name": "Jerry",
         "id": "7d188c3f-6bb0-4d90-9d09-ff110ac0c85a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754326306,
         "date_posted": 1754326306,
         "url": "https://jobs.ashbyhq.com/Jerry/ea6198c6-18ff-4d6b-93b7-29daa4e3957f/application",
@@ -17748,7 +17602,7 @@
         "company_name": "Jerry",
         "id": "ac728ba9-6063-445f-9722-8eda369b2d95",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754327245,
         "date_posted": 1754327245,
         "url": "https://jobs.ashbyhq.com/Jerry/6cf756d3-779a-43c4-8258-61269e129316/application",
@@ -17783,7 +17637,7 @@
         "company_name": "Zoro",
         "id": "e825cd57-2482-4e89-b28a-901424d7269b",
         "title": "Software Engineer I - Release Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1754351086,
         "date_posted": 1754351086,
         "url": "https://zoro.com/careers/jobs?gh_jid=4589860006",
@@ -17877,20 +17731,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754361546,
+        "date_updated": 1754662623,
         "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
         "company_name": "ServiceNow",
         "title": "Associate Systems Engineer",
         "locations": [
             "San Diego, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "b59cf00f-e020-4e99-bb65-423b0ad83cf7",
         "date_posted": 1754361546,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754361660,
@@ -18252,11 +18106,11 @@
         "id": "59f2623e-1e7c-4a2c-b675-38ba8bdba66f",
         "title": "Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1754389831,
+        "date_updated": 1754964235,
         "date_posted": 1754389831,
         "url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/BRM",
         "is_visible": true,
@@ -18319,7 +18173,7 @@
         "company_name": "Medtronic",
         "id": "9d10f271-23f6-45b7-b460-6bd613fda2c6",
         "title": "Software Engineer I - CRM",
-        "active": true,
+        "active": false,
         "date_updated": 1754441018,
         "date_posted": 1754441018,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R38781-1",
@@ -18346,5 +18200,1778 @@
         "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754528498,
+        "url": "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job",
+        "company_name": "i3",
+        "title": "Full-Stack Software Engineer",
+        "locations": [
+            "Hunstville, AL"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "10757e82-0f1f-47cc-9dba-a04229089139",
+        "date_posted": 1754528498,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755041580,
+        "url": "https://app.ripplematch.com/v2/public/job/340fb9c1",
+        "company_name": "Reddit",
+        "title": "Software Engineer - New Grad",
+        "locations": [
+            "Chicago, IL",
+            "San Francisco, CA",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "10784ba8-c863-49da-a882-bebd394b86a9",
+        "date_posted": 1754540980,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754541480,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4816999008",
+        "company_name": "Five Rings",
+        "title": "Software Developer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "bc4e3762-4cc1-4277-b26d-679567eea424",
+        "date_posted": 1754541480,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754661563,
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Tampa---USA--2026_25893646",
+        "company_name": "Citi",
+        "title": "Functions - Quantitative Risk Management, Full Time Analyst",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "AlmondCroffle",
+        "id": "f68afc31-c80c-4182-8152-99d8a2efe6c3",
+        "date_posted": 1754542792,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754661674,
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Buffalo---USA--2026_25893592",
+        "company_name": "Citi",
+        "title": "Functions - Quantitative Risk Management, Full Time Analyst",
+        "locations": [
+            "Getzville, NY"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "AlmondCroffle",
+        "id": "9befb1bc-7880-493a-a3da-02e9a834bf84",
+        "date_posted": 1754542900,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754542970,
+        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/",
+        "company_name": "Trexquant",
+        "title": "Quantitative Researcher",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a15d5309-6cc9-4b9f-972d-a0ec2c3d4188",
+        "date_posted": 1754542970,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755165964,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Data-Analyst--College-of-Pharmacy--PhARM-and-TXCORE_R_00041200",
+        "company_name": "The University of Texas at Austin",
+        "title": "Data Analyst, College of Pharmacy, PhARM and TXCORE",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "fe81670b-36fc-4ad0-bf87-9b67f0b44b06",
+        "date_posted": 1754543197,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "181fef0d-cef2-4ea1-ac5d-6b490862aef8",
+        "title": "Software Engineer I - Aws",
+        "active": true,
+        "date_updated": 1754547187,
+        "date_posted": 1754547187,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MD---Baltimore/Software-Engineer-I---AWS_R-46038",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roblox",
+        "id": "ce300a36-bfdf-407a-87e7-909f736c9e2a",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1754548068,
+        "date_posted": 1754548068,
+        "url": "https://careers.roblox.com/jobs/7114754?gh_jid=7114754",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "979a8376-f452-4f5b-8465-3536217517a5",
+        "title": "Software Engineer I - Backend",
+        "active": false,
+        "date_updated": 1754547720,
+        "date_posted": 1754547720,
+        "url": "https://www.uber.com/global/en/careers/list/146900/",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trexquant",
+        "id": "0c176474-32a7-45e5-84eb-b8e956800bf8",
+        "title": "Quantitative Researcher \u2013 Early Career",
+        "active": true,
+        "date_updated": 1754661846,
+        "date_posted": 1754604410,
+        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/apply",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Trexquant",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
+        "title": "Intern Conversion: \u2013 Early Career - Avionics Software Engineer I",
+        "active": true,
+        "date_updated": 1754610266,
+        "date_posted": 1754610266,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003",
+        "locations": [
+            "Seattle, WA",
+            "Washington, DC",
+            "LA",
+            "Cape Canaveral, FL",
+            "Phoenix, AZ",
+            "Denver, CO",
+            "Huntsville, AL",
+            "Van Horn, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FourKites",
+        "id": "9283f61a-70cb-475a-94e8-1e2d58f3e387",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1754610831,
+        "date_posted": 1754610831,
+        "url": "https://job-boards.greenhouse.io/fourkites/jobs/6939520",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FourKites",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "i3",
+        "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
+        "title": "Entry Level Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1754610792,
+        "date_posted": 1754610792,
+        "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/I3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "31258921-79ec-4c6b-a2d1-bd40aa5a0ff2",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1755082091,
+        "date_posted": 1754616167,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "15a3cb70-7e7e-4266-836d-d22d886b2d8c",
+        "title": "Software Developer \u2013 Entry level",
+        "active": true,
+        "date_updated": 1754619648,
+        "date_posted": 1754619648,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00164213",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "848f9975-f362-46d1-bdf9-04b8b79018b5",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1754630569,
+        "date_posted": 1754630569,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803067424",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754753470,
+        "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Junior-Software-Engineer_R-222252",
+        "company_name": "Amgen",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Thousand Oaks, CA",
+            "Tampa, FL"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "AlmondCroffle",
+        "id": "669bff20-bc17-4752-acc8-b2297819b6ae",
+        "date_posted": 1754642042,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754642138,
+        "url": "http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481",
+        "company_name": "Iowa State University",
+        "title": "Software Developer I - AI Developer",
+        "locations": [
+            "Remote, IA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b2c3b509-3077-4e43-8818-395c67f30753",
+        "date_posted": 1754642138,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754642261,
+        "url": "https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1",
+        "company_name": "Maxar",
+        "title": "Forward Deployed Software Engineer I",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "07e3733c-260c-4dc2-8ea5-de5cdcaba9cc",
+        "date_posted": 1754642261,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754642341,
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/304100",
+        "company_name": "Oracle",
+        "title": "Undergrad Software Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d6ed9b5f-f43b-410d-862c-1efe7b31e131",
+        "date_posted": 1754642341,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755036485,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
+        "company_name": "Radiance Technologies",
+        "title": "Junior Full Stack Software Engineer",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1ea4b748-fd4a-4ddb-a767-f544ed2bbd5b",
+        "date_posted": 1754642427,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1755045240,
+        "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500",
+        "company_name": "Royal Carribean Group",
+        "title": "Associate Engineer, Software",
+        "locations": [
+            "Miramar, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "6e1f2c33-4a57-4f51-a2bb-2cd3de84d5b5",
+        "date_posted": 1754642817,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754642937,
+        "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8084784002",
+        "company_name": "Ping Identity",
+        "title": "Software Engineer I",
+        "locations": [
+            "Denver, CO"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b85f9a7d-08ab-407f-bed2-9b773c7b5aba",
+        "date_posted": 1754642937,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755041520,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266",
+        "company_name": "Emerson",
+        "title": "Embedded Software Engineer",
+        "locations": [
+            "Shakopee, MN"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "736ff7fd-9859-482b-b73b-e3b5ffd38452",
+        "date_posted": 1754649625,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754753697,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495",
+        "company_name": "Detroit Defense",
+        "title": "Software Test Engineer",
+        "locations": [
+            "Troy, MI"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "AlmondCroffle",
+        "id": "c970b2d3-4e10-414c-8ef1-849d778e5262",
+        "date_posted": 1754649712,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754649789,
+        "url": "https://job-boards.greenhouse.io/cooksys/jobs/4872299008",
+        "company_name": "Cook Systems",
+        "title": "Software Developer",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "84ea0eef-b51b-47f6-b7d9-800f3cfb2a0f",
+        "date_posted": 1754649789,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754662042,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Texas/Data-Analyst-I_R99153",
+        "company_name": "LexisNexis",
+        "title": "Data Analyst I",
+        "locations": [
+            "TX"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "AlmondCroffle",
+        "id": "dbfb9c5c-d22f-4e23-ba87-1f200060adb9",
+        "date_posted": 1754650158,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754650227,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003?gh_jid=6616403003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (AI-Driven Data Science & Analytics)",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c1bda983-4826-4916-b7d0-13de88f2cbe8",
+        "date_posted": 1754650227,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754650390,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research---New-College-Grad-2025_JR2001017",
+        "company_name": "NVIDIA",
+        "title": "Research Scientist, Robotics Research",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "20e564c1-72f3-4cbb-af1c-91cd9e5e6ea9",
+        "date_posted": 1754650390,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754676244,
+        "url": "https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "SDET, Software Development Engineer in Test",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "90c8a174-8ced-4a23-935a-761dbcc3fea0",
+        "date_posted": 1754676244,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754676325,
+        "url": "https://lifeattiktok.com/search/7534641634584185095?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer - Search E-Commerce",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c7f00278-2abf-40e3-a84f-c6d8fdee9900",
+        "date_posted": 1754676325,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755082139,
+        "url": "https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Product Security Engineer - Security Assurance",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c1fe3539-1d8e-4d12-a200-fb863a28c8e4",
+        "date_posted": 1754676669,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754676794,
+        "url": "https://lifeattiktok.com/search/7532626482364909842?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate Social - 2026 Start",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "35bd50e7-b4b1-465c-baf9-70af0a53e614",
+        "date_posted": 1754676794,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
+        "title": "Software Developer Engineer I",
+        "active": false,
+        "date_updated": 1754702367,
+        "date_posted": 1754702367,
+        "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Databricks",
+        "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
+        "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2025 Start",
+        "active": true,
+        "date_updated": 1754705238,
+        "date_posted": 1754705238,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
+        "locations": [
+            "Bellevue, WA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Databricks",
+        "id": "6229e804-43a5-47a4-882c-c7bf3dc4968f",
+        "title": "Software Engineer \u2013 New Grad - 2026 Start",
+        "active": true,
+        "date_updated": 1754705218,
+        "date_posted": 1754705218,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Databricks",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "771d2792-5d1c-41f4-aa36-d5fc6bd60af3",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1754711609,
+        "date_posted": 1754711609,
+        "url": "https://jobs.ashbyhq.com/Jerry/4dcfcfa6-7d55-40a9-9b9d-d7195ae88fd3/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "bf169a76-72de-42e1-ae62-e464af8b92ea",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1754711084,
+        "date_posted": 1754711084,
+        "url": "https://jobs.ashbyhq.com/Jerry/19d84e98-6a93-4e5b-937d-170f6f36ea46/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "ea4d0d87-ebb6-40a8-a09e-ae57b991c344",
+        "title": "Junior AI-Assisted Software Engineer",
+        "active": false,
+        "date_updated": 1754712418,
+        "date_posted": 1754712418,
+        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+        "locations": [
+            "South Orange, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Relay",
+        "id": "96d32e79-92f2-46af-9675-a4acc65d81a2",
+        "title": "Junior Software Developer Engineer in Test - C#",
+        "active": true,
+        "date_updated": 1754712043,
+        "date_posted": 1754712043,
+        "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Relay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754747431,
+        "url": "https://www.tesla.com/careers/search/job/247659",
+        "company_name": "Tesla",
+        "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f10df930-2707-43a7-8c03-f5fe269294f5",
+        "date_posted": 1754747431,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754747598,
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232",
+        "company_name": "BMO",
+        "title": "Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ad525d17-d6ca-4379-b4b2-b8382f101832",
+        "date_posted": 1754747598,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754951019,
+        "url": "https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
+        "company_name": "DIRECTV",
+        "title": "IT Software Engineer 1",
+        "locations": [
+            "El Segundo, CA",
+            "Remote in USA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "6995c809-24ab-4413-98db-2a6e1c27e11d",
+        "date_posted": 1754747781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754963955,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
+        "company_name": "Moog",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c6b8a184-a9cc-4100-9774-4ef13b0c7570",
+        "date_posted": 1754747940,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748271,
+        "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
+        "company_name": "Peraton",
+        "title": "Software Engineering, Associate",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ff31da1e-4ae5-46da-8714-dd3695505784",
+        "date_posted": 1754748271,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755081429,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Digital-Manufacturing-Data-Science-Analyst--2025-New-College-Graduate-_JR-2502012",
+        "company_name": "GlobalFoundries",
+        "title": "Digital Manufacturing Data Science Analyst",
+        "locations": [
+            "Malta, NY"
+        ],
+        "sponsorship": "Other",
+        "active": false,
+        "source": "AlmondCroffle",
+        "id": "2ad991f6-5161-43b8-af8f-3be0ac68b1a8",
+        "date_posted": 1754748405,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1754748517,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ff7b6269-b3e1-4e8c-bcb1-6d796c23b551",
+        "date_posted": 1754748517,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748680,
+        "url": "https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Green-Bay/Data-Analyst-I--Breakthrough-_R3745",
+        "company_name": "U.S. Venture",
+        "title": "Data Analyst I (Breakthrough)",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "bb95c23d-065b-4ae3-ab08-1db8a7deba5a",
+        "date_posted": 1754748680,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754755775,
+        "url": "https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25",
+        "company_name": "Lumafield",
+        "title": "Embedded Systems Engineer",
+        "locations": [
+            "Boston, MA",
+            "Everett, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2494635c-0be1-4065-b0d6-fd28c52d0841",
+        "date_posted": 1754755775,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "4de1ec5a-28f6-48a5-ad70-109b6693bc01",
+        "title": "Cyber/Electronic Warfare Research Engineer I",
+        "active": true,
+        "date_updated": 1754741015,
+        "date_posted": 1753478704,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD720-9861-Broken-Land-Pkwy-Columbia-9861-Broken-Land-Parkway-Suite-400-Columbia-MD-21046-USA/Cyber-Electronic-Warfare-Engineer_01782149",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DIRECTV",
+        "id": "700bbf44-6c06-4816-a5a4-061de72bcb00",
+        "title": "IT Software Engineer 1",
+        "active": true,
+        "date_updated": 1754781479,
+        "date_posted": 1754781479,
+        "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/DIRECTV",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripAdvisor",
+        "id": "b1e25a04-c0cf-4584-9b3c-cb00a33139c3",
+        "title": "Software Engineer I - Backend Focus - Viator",
+        "active": true,
+        "date_updated": 1754924707,
+        "date_posted": 1753203617,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058",
+        "locations": [
+            "London, UK",
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HNTB",
+        "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
+        "title": "Returning New Grad Software Engineer I",
+        "active": true,
+        "date_updated": 1754978782,
+        "date_posted": 1754978782,
+        "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754990599,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=",
+        "company_name": "Anduril Industries",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "Elisha-Edme",
+        "id": "e6fe73f7-dde0-4fb0-bfaa-04894ee449f2",
+        "date_posted": 1754990483,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754990716,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=",
+        "company_name": "Anduril Industries",
+        "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a9a21ff0-2246-44b3-8633-cb218964f107",
+        "date_posted": 1754990716,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754990871,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
+        "company_name": "Anduril Industries",
+        "title": "Software Engineer, Connected Warfare",
+        "locations": [
+            "Costa Mesa, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5832ef95-34cc-4b52-9a23-d2b9507b739d",
+        "date_posted": 1754990871,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754991209,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Cloud-Architect_R0619090",
+        "company_name": "CVS Health",
+        "title": "Associate Cloud Architect",
+        "locations": [
+            "Remote, TX"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9f79d21a-4429-44cd-a2fc-d4b4721f0e65",
+        "date_posted": 1754991209,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754991338,
+        "url": "https://remodelhealth.com/resources/job/?gh_jid=4880033008",
+        "company_name": "Remodel Health",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "39827fea-c12e-438f-a718-8b6d2c41df51",
+        "date_posted": 1754991338,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755006927,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+        "company_name": "SS&C",
+        "title": "Junior AI-Assisted Software Engineer",
+        "locations": [
+            "Union, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0a1235f1-ce89-40a8-a94d-f053e58c9904",
+        "date_posted": 1755006927,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755007024,
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546",
+        "company_name": "Solar Turbines",
+        "title": "Entry Level Controls & Software Test Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9c770eb9-1372-4a9c-acbd-8585aa18053a",
+        "date_posted": 1755007024,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755007633,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002?gh_jid=6866554002",
+        "company_name": "Databricks",
+        "title": "Data Scientist",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2a99602b-1ec5-4b99-9050-41fc36613ffb",
+        "date_posted": 1755007633,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755007781,
+        "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Analytics-Associate-Graduate-Program-2026-New-York_JR-0000060403",
+        "company_name": "Barclays",
+        "title": "Quantitative Analytics Associate Graduate Program",
+        "locations": [
+            "Manhattan, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b669da89-d679-4fa2-a593-4eca3f5ac63e",
+        "date_posted": 1755007781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755008007,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1",
+        "company_name": "The Home Depot",
+        "title": "Associate Data Scientist - MET",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c43d97a6-1158-467e-b694-79c6de8b35f1",
+        "date_posted": 1755008007,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755008070,
+        "url": "https://apply.workable.com/scitec/j/45B1B9BA15/",
+        "company_name": "SciTec",
+        "title": "Associate / Staff Mission Data Analyst",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1541d447-9fbe-4d31-97e2-1cd93adb98d4",
+        "date_posted": 1755008070,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prosidian Consulting",
+        "id": "847cf082-1f75-43bb-9b76-0943ab77d698",
+        "title": "ITSM IT Security Engineer I",
+        "active": true,
+        "date_updated": 1755007381,
+        "date_posted": 1755007381,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755008257,
+        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
+        "company_name": "Analytical Mechanics Associates",
+        "title": "AI/ML Research Associate",
+        "locations": [
+            "Hampton, VA",
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "7062f9fd-9d7c-44a4-bdef-bd2966e22a61",
+        "date_posted": 1755008257,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "00402230-0088-405d-aa27-d1360064a72c",
+        "title": "Software Engineering AMTS \u2013 New Grad",
+        "active": true,
+        "date_updated": 1755030902,
+        "date_posted": 1755030902,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "41ff9380-1d22-490e-a190-d2eb855c621f",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1755033256,
+        "date_posted": 1755033256,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "f44cb268-5b1f-4b8d-ada3-b7bb30dfaec2",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1755033254,
+        "date_posted": 1755033254,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824378007",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Broadcom Limited",
+        "id": "45d26c7a-c9d3-4ac2-a788-03830aab0c0c",
+        "title": "Entry level Mainframe Software Development Engineer",
+        "active": true,
+        "date_updated": 1755033597,
+        "date_posted": 1755033597,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Entry-level-Mainframe-Software-Development-Engineer_R023538",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755045285,
+        "url": "https://university-uber.icims.com/jobs/147250/job",
+        "company_name": "Uber",
+        "title": "Graduate 2025 Software Engineer I, US",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "7147fcb0-68ba-4a67-949f-44ce269b1ac4",
+        "date_posted": 1755035602,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1755035689,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005",
+        "company_name": "Applied Intuition",
+        "title": "Embedded Software Engineer - New Grad",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "3827b11f-faee-43e0-b92d-1fd2d3a75784",
+        "date_posted": 1755035689,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755035710,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005",
+        "company_name": "Applied Intuition",
+        "title": "Research Scientist - New Grad",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "6a32d638-3914-427f-affa-a38322e94088",
+        "date_posted": 1755035710,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755035727,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005",
+        "company_name": "Applied Intuition",
+        "title": "Software Engineer - New Grad",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "e40e216e-8125-49f7-9366-c7bb719bb4a1",
+        "date_posted": 1755035727,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "e31c7e60-47e7-40ec-86e9-f01ebc4caefb",
+        "title": "Graduate 2025 Software Engineer I",
+        "active": true,
+        "date_updated": 1755036609,
+        "date_posted": 1755036609,
+        "url": "https://www.uber.com/global/en/careers/list/147250/",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755045229,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Elisha-Edme",
+        "id": "f81de977-11f6-4e8f-8c28-558e716f56c7",
+        "date_posted": 1755045229,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755051956,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-2",
+        "company_name": "Boeing",
+        "title": "Software and Electrical Systems Simulation Integration Engineer",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9f9d4908-0ce6-435e-8455-57401d9d963c",
+        "date_posted": 1755051837,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052023,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-1",
+        "company_name": "Boeing",
+        "title": "Software and Electrical Systems Simulation Integration Engineer",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "985c4208-ceeb-4718-a570-fecef1c7f303",
+        "date_posted": 1755052023,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755155700,
+        "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
+        "company_name": "Gannett Fleming",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "San Diego, CA",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f8afaa29-d90b-499f-bcd6-bdb1709071e9",
+        "date_posted": 1755052838,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1755052904,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005?gh_jid=4592027005",
+        "company_name": "Applied Intuition",
+        "title": "Embedded Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "30855501-03e4-44ce-98c1-cc68924ce170",
+        "date_posted": 1755052904,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052966,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005?gh_jid=4489211005",
+        "company_name": "Applied Intuition",
+        "title": "Research Scientist",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "37534fef-92db-4930-aa0c-6c9a5cbd86ba",
+        "date_posted": 1755052966,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755053017,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005?gh_jid=4592025005",
+        "company_name": "Applied Intuition",
+        "title": "Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0c3584aa-5224-43ae-960d-faa5dd6e5ae2",
+        "date_posted": 1755053017,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "50db7037-287c-460f-a7d6-ce1abcb89b9c",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1755117566,
+        "date_posted": 1755062669,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803102071",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Does Not Offer Sponsorship"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apex Fintech Solutions",
+        "id": "9d74aeea-fa25-46c6-af6f-3d20a6065b64",
+        "title": "Software Engineer I - Aldp",
+        "active": true,
+        "date_updated": 1755147515,
+        "date_posted": 1755147515,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ed242389-4231-41e2-bc85-a1f97fd15e44",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton, Dickinson and Company",
+        "id": "78c2a49e-da4c-4434-974e-85eb8b9c2bdd",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1755154524,
+        "date_posted": 1755154524,
+        "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I----Hybrid-_R-523411-1",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson-And-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755168445,
+        "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752",
+        "company_name": "Suno",
+        "title": "Software Engineer",
+        "locations": [
+            "Boston, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9c31b7f7-76b2-42fd-a321-eea8171cff28",
+        "date_posted": 1755168445,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755168795,
+        "url": "https://ats.rippling.com/en-CA/rippling/jobs/393b2982-14b0-4715-b6ea-a83353e95e12",
+        "company_name": "Rippling",
+        "title": "Software Engineer - Spend Growth",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2199e28d-668b-4f20-bc5a-695ed9f27647",
+        "date_posted": 1755168795,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755168924,
+        "url": "https://www.metacareers.com/jobs/8187200048015588",
+        "company_name": "Meta",
+        "title": "Software Engineer (University Grad)",
+        "locations": [
+            "Sunnyvale, CA",
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "Boston, MA",
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4057dcc2-fc6b-4dd5-b8f4-d667a603a058",
+        "date_posted": 1755168924,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169079,
+        "url": "https://www.jumptrading.com/careers/7141658/?gh_jid=7141658",
+        "company_name": "Jump Trading",
+        "title": "Campus AI Researcher (Full-Time)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9db01451-6509-4ceb-876c-362f00d3e76b",
+        "date_posted": 1755169079,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169257,
+        "url": "https://www.jumptrading.com/careers/7141620/?gh_jid=7141620",
+        "company_name": "Jump Trading",
+        "title": "Campus ML Engineer (Full-Time)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "12281588-c2dc-4544-afc8-baf9da2cd462",
+        "date_posted": 1755169257,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169441,
+        "url": "https://www.jumptrading.com/careers/7125354/?gh_jid=7125354",
+        "company_name": "Jump Trading",
+        "title": "Campus Quantitative Researcher (Full-Time)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b4168486-2b58-4db3-857e-ccdedac2cc56",
+        "date_posted": 1755169441,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169558,
+        "url": "https://www.jumptrading.com/careers/7140611/?gh_jid=7140611",
+        "company_name": "Jump Trading",
+        "title": "Campus Quantitative Trader (Full-Time)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ef9a89c5-ed19-417d-81c3-285db2f4bf8e",
+        "date_posted": 1755169558,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169946,
+        "url": "https://www.citadelsecurities.com/careers/details/c-software-engineer-4/",
+        "company_name": "Citadel Securities",
+        "title": "C++ Software Engineer",
+        "locations": [
+            "Miami, FL",
+            "London, UK"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "95b5ae68-c637-4f57-af6e-2240cdf8587d",
+        "date_posted": 1755169946,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170018,
+        "url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189",
+        "company_name": "BRM",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "067a2ce0-ad8d-4bb8-9b8d-b0bfb7b187f2",
+        "date_posted": 1755170018,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170203,
+        "url": "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots",
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "cf3bff1b-96d9-42c8-aa16-d665aa659cda",
+        "date_posted": 1755170203,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170484,
+        "url": "https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job",
+        "company_name": "TekSynap",
+        "title": "Junior Software Developer",
+        "locations": [
+            "VA",
+            "AZ",
+            "AR",
+            "CT",
+            "DE",
+            "FL",
+            "GA",
+            "ID",
+            "IN",
+            "IA",
+            "KS",
+            "Various States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "12b2a32d-8b3c-4a31-b114-273a8640fe2c",
+        "date_posted": 1755170484,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170612,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Melbourne-FL/Software-Engineer_R0276710-1",
+        "company_name": "Thales",
+        "title": "Software Engineer | Graduate",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "48a1df77-0b5c-4ea5-ab76-fb647a6883c6",
+        "date_posted": 1755170612,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170758,
+        "url": "https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288",
+        "company_name": "Veterans United Home Loans",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote, MO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5a4aa298-6cc3-4d8a-99f3-b3d2820657d9",
+        "date_posted": 1755170758,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170921,
+        "url": "https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job",
+        "company_name": "Sev1Tech",
+        "title": "Software Developer - Entry Level",
+        "locations": [
+            "Fort Sill, OK"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c4fb508a-96f2-497a-a116-33572aa2d59f",
+        "date_posted": 1755170921,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170963,
+        "url": "https://job-boards.greenhouse.io/foliahealth/jobs/4013590009",
+        "company_name": "Folia Health",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "cb5df03b-06f2-4f6c-8486-1df25a8269e2",
+        "date_posted": 1755170963,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171076,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+        "company_name": "Apex",
+        "title": "Software Engineer I (ALDP)",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4929aa5d-6718-4db5-ad67-943ed00e9fa8",
+        "date_posted": 1755171076,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171153,
+        "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program---Cleveland_R-33876-1",
+        "company_name": "KeyBank",
+        "title": "Analytics and Quantitative Modeling Rotational Analyst Program",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c461ce0a-a2d3-4e57-9e11-d44f17791af0",
+        "date_posted": 1755171153,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171219,
+        "url": "https://matic.com/careers/?gh_jid=5585225004",
+        "company_name": "Matic",
+        "title": "Data Analyst (entry-level)",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c78dabe2-7976-4f40-8688-02419728c90d",
+        "date_posted": 1755171219,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171502,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8112737002",
+        "company_name": "Samsung",
+        "title": "Health AI Scholar, Digital Health (PhD)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1efa1a96-858a-40e1-893d-3a3a9591226b",
+        "date_posted": 1755171502,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171568,
+        "url": "https://triafed.com/jobs/?gh_jid=4881899008",
+        "company_name": "Tria Federal",
+        "title": "Data Analyst-Level I",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "71e57d3c-74eb-4697-9e82-980a070f445a",
+        "date_posted": 1755171568,
+        "company_url": "",
+        "is_visible": true
     }
 ]
